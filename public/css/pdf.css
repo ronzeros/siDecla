@@ -1,0 +1,34 @@
+.titulo{
+	font: bold;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#contenedor{
+	width: 680px;
+	height: 900px;
+	margin: 0px auto;
+	padding: 10px;
+    border: 1px solid #c3c3c3;
+ }
+
+.etiqueta{
+	display: inline-block;
+	width: 150px;
+}
+
+.valor{
+	display: inline-block;
+	width: 150px;
+	text-transform: uppercase;	
+}
+
+.valor2{
+	display: inline-block;
+	width: 480px;
+	text-transform: uppercase;	
+}
+
+table{
+	margin: 0px auto;
+}

@@ -1,0 +1,32 @@
+.navbar{
+	background-color: #337ab7 !important;
+	color: white;
+}
+
+.content_wrapper{
+	background-color: rgba(234, 241, 245, 0.91);
+}
+
+.preview{
+	width: 171px;
+	height: 180px;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	position: relative;
+}
+
+.preview label, .preview .botones{
+	position: absolute;
+	bottom: 5px;
+	left: 5px;
+	right: 5px;
+}
+
+.preview a{
+	width: 100%;
+}
+
+
+.file-info{
+	display:block;
+}
