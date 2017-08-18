@@ -12,7 +12,8 @@
 */
 
 Route::get('/', function (){
-    return view('auth/login');
+    //return view('auth/login');
+    return view('layouts/inicio');
 });
 
 Route::get('declarante/logeo','DeclaranteController@actionLogeo')->name('logeo');
